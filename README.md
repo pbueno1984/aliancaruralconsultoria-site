@@ -4,7 +4,7 @@ Site estático da Aliança Rural Consultoria, publicado pelo GitHub Pages.
 
 - `index.html`: página inicial
 - `sigcar/index.html`: página do Plano SIGCAR (destino dos anúncios)
-- `assinatura/index.html`: Plano SIGCAR por Assinatura, com preços por imóvel rural e simulador
+- `assinatura/index.html`: assinaturas (SIGCAR, Outorga, Licença, DAI, Regularidade Total), diagnóstico avulso e simulador. Preços gerados da planilha `modelo_precificacao_assinaturas.xlsx`
 - `assets/`: logo, imagens (créditos no rodapé) e brasão
 - `CNAME`: domínio próprio
 
