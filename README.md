@@ -4,7 +4,7 @@ Site estático da Aliança Rural Consultoria, publicado pelo GitHub Pages.
 
 - `index.html`: página inicial
 - `sigcar/index.html`: página do Plano SIGCAR (destino dos anúncios)
-- `assets/`: logo, fotos (Unsplash) e brasão
+- `assets/`: logo, imagens (créditos no rodapé) e brasão
 - `CNAME`: domínio próprio
 
 ## Publicar
