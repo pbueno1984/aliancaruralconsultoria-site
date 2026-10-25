@@ -1,0 +1,16 @@
+# repositório público: nada disto deve ser enviado
+.env
+*.env
+*.xlsx
+*.xls
+*.csv
+*.pdf
+*.qgz
+*.qgs
+*.gpkg
+*.shp
+*.kml
+*.kmz
+.DS_Store
+Thumbs.db
+desktop.ini
